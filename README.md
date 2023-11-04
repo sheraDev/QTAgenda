@@ -23,7 +23,7 @@
 
 
 # Install
-```sql
+```bash
 git clone https://github.com/sheraDev/QTAgenda
 cd QTAgenda/code
 qmake && make
